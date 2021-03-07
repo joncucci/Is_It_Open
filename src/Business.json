@@ -1,0 +1,38 @@
+[
+    {
+        "name": "H&S Giovanni's Restaurant & Pizza",
+        "stars" : 4,
+        "miles" : 0.2,
+        "indoor": true,
+        "outdoor": true,
+        "delivery": false,
+        "temperature": false,
+        "capacity": 28,
+        "description" : "Easygoing chain pizzeria supplying custom pies, plus pastas, sandwiches and side.",
+        "img" : "html"
+    },
+    {
+        "name": "Napoli's Pizza",
+        "stars" : 4,
+        "miles" : 0.6,
+        "indoor": true,
+        "outdoor": true,
+        "delivery": true,
+        "temperature": false,
+        "capacity": 20,
+        "description" : "Itsa Pizza Pie... buh bye!!!",
+        "img" : "html"
+    },
+    {
+        "name": "Mario's Pizza",
+        "stars" : 4,
+        "miles" : 0.3,
+        "indoor": true,
+        "outdoor": true,
+        "delivery": false,
+        "temperature": false,
+        "capacity": 10,
+        "description" : "Classic corner spot for a quick, cheap slice.",
+        "img" : "html"
+    }
+]
